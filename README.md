@@ -14,5 +14,6 @@ The project includes:
 3) Pedestrian traffic
 4) Bus routes
 
-   
+![image](https://github.com/user-attachments/assets/92c2aa42-8d46-4ef8-a5c9-79244fb947ea)
+
    
